@@ -5,6 +5,6 @@ programs="AutoCompletion for virtual keyboard, AutoWidget, CocoScrapers Module, 
 video="Umbrella, Jellyfin, TheMovieDb Helper"
 music="none"
 picture="Texture Maker"
-repos="a4kSubtitles Repository, AutoWidget Repository, CocoScrapers Repository, jurialmunkey Alpha Repository, Kodi Jellyfin Addons, Marcelveldt's BETA Repository, AmaterasuWizard Repository"
+repos="a4kSubtitles Repository, AutoWidget Repository, CocoScrapers Repository, jurialmunkey Alpha Repository, Kodi Jellyfin Addons, Marcelveldt's BETA Repository, Umbrella Repository, AmaterasuWizard Repository"
 scripts="TMDbHelper - Additional Context Menu Items, Universal Album Scraper, Universal Artist Scraper, fanart.tv Scraper Library, The Movie Database Python, TMDb TV Shows, Roboto CJKSC, Studio Icons - Coloured, Weather Icons - White, Addon Signals, AutoCompletion library, BeautifulSoup4, certifi, chardet, future, idna, InfoTagger, jurialmunkey common, MySQL Connector/Python, requests, Simple Eval, SimplePlugin 3, six, Soup Sieve, unidecode, urllib3, Skin Shortcuts, Skin Variables, Version Check, Gismeteo"
 binaries="none"
