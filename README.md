@@ -1,1 +1,1 @@
-# amaterasu-wizard
+# loki-wizard
