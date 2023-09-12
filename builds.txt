@@ -1,6 +1,6 @@
 name="Loki"
 version="2.1"
-url="https://index.monkdex.workers.dev/0:/Loki_v2.1.zip"
+url="https://index.monkdex.workers.dev/0:/Loki_v2.2.zip"
 minor="http://"
 gui="https://index.monkdex.workers.dev/0:/Loki_v2.1_guisettings.zip"
 kodi="20.2"
