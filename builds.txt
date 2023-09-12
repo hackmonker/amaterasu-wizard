@@ -1,5 +1,5 @@
 name="Loki"
-version="2.1"
+version="2.2"
 url="https://index.monkdex.workers.dev/0:/Loki_v2.2.zip"
 minor="http://"
 gui="https://index.monkdex.workers.dev/0:/Loki_v2.1_guisettings.zip"
