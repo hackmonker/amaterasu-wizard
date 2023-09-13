@@ -1,6 +1,6 @@
 name="Loki"
-version="2.3"
-url="https://www.dropbox.com/scl/fi/j0o51rdzhizltqe78o9ar/Loki_v2.3.zip?rlkey=2twv09kfrimenkpnxms8l5vch&dl=1"
+version="2.4"
+url="https://www.dropbox.com/scl/fi/ubjsa44hvchjjcfp66jc3/Loki_v2.4.zip?rlkey=s9vp52cdf8b4rpj7mqus2xvkt&dl=1"
 minor="http://"
 gui="https://index.monkdex.workers.dev/0:/Loki_v2.1_guisettings.zip"
 kodi="20.2"
